@@ -1,0 +1,128 @@
+
+KW-WIL-MKO-NOT	Tue Mar 06 21:56:38 2018
+	ib_util init failed, UDFs can't be used - looks like firebird misconfigured
+	
+	k:\_delphi\_firebird\fb25\bin/ib_util.dll library has not been found
+	k:\_delphi\_firebird\fb25\ib_util.dll library has not been found
+	ib_util.dll library has not been found
+
+
+KW-WIL-MKO-NOT	Tue Mar 06 21:57:29 2018
+	ib_util init failed, UDFs can't be used - looks like firebird misconfigured
+	
+	k:\_delphi\_firebird\fb25\bin/ib_util.dll library has not been found
+	k:\_delphi\_firebird\fb25\ib_util.dll library has not been found
+	ib_util.dll library has not been found
+
+
+KW-WIL-MKO-NOT	Tue Mar 06 21:58:12 2018
+	ib_util init failed, UDFs can't be used - looks like firebird misconfigured
+	
+	k:\_delphi\_firebird\fb25\bin/ib_util.dll library has not been found
+	k:\_delphi\_firebird\fb25\ib_util.dll library has not been found
+	ib_util.dll library has not been found
+
+
+KW-WIL-MKO-NOT	Wed Mar 07 20:32:16 2018
+	ib_util init failed, UDFs can't be used - looks like firebird misconfigured
+	
+	e:\prog\#Baza25na30\fb25\bin/ib_util.dll library has not been found
+	e:\prog\#Baza25na30\fb25\ib_util.dll library has not been found
+	ib_util.dll library has not been found
+
+
+KW-WIL-MKO-NOT	Wed Mar 07 20:35:15 2018
+	ib_util init failed, UDFs can't be used - looks like firebird misconfigured
+	
+	e:\prog\#Baza25na30\fb25\bin/ib_util.dll library has not been found
+	e:\prog\#Baza25na30\fb25\ib_util.dll library has not been found
+	ib_util.dll library has not been found
+
+
+KW-WIL-MKO-NOT	Wed Mar 07 20:47:34 2018
+	ib_util init failed, UDFs can't be used - looks like firebird misconfigured
+	
+	E:\prog\#Baza25na30\fb25\bin/ib_util.dll library has not been found
+	E:\prog\#Baza25na30\fb25\ib_util.dll library has not been found
+	ib_util.dll library has not been found
+
+
+KW-WIL-MKO-NOT	Wed Mar 07 21:00:11 2018
+	ib_util init failed, UDFs can't be used - looks like firebird misconfigured
+	
+	E:\prog\#Baza25na30\fb25\bin/ib_util.dll library has not been found
+	E:\prog\#Baza25na30\fb25\ib_util.dll library has not been found
+	ib_util.dll library has not been found
+
+
+KW-WIL-MKO-NOT	Wed Mar 07 21:00:19 2018
+	ib_util init failed, UDFs can't be used - looks like firebird misconfigured
+	
+	E:\prog\#Baza25na30\fb25\bin/ib_util.dll library has not been found
+	E:\prog\#Baza25na30\fb25\ib_util.dll library has not been found
+	ib_util.dll library has not been found
+
+
+KW-WIL-MKO-NOT	Thu Mar 08 20:52:40 2018
+	ib_util init failed, UDFs can't be used - looks like firebird misconfigured
+	
+	e:\prog\#Baza25na30\fb25\bin/ib_util.dll library has not been found
+	e:\prog\#Baza25na30\fb25\ib_util.dll library has not been found
+	ib_util.dll library has not been found
+
+
+KW-WIL-MKO-NOT	Fri Mar 09 21:12:02 2018
+	ib_util init failed, UDFs can't be used - looks like firebird misconfigured
+	
+	e:\prog\#Baza25na30\fb25\bin/ib_util.dll library has not been found
+	e:\prog\#Baza25na30\fb25\ib_util.dll library has not been found
+	ib_util.dll library has not been found
+
+
+KW-WIL-MKO-NOT	Mon Mar 12 20:13:39 2018
+	ib_util init failed, UDFs can't be used - looks like firebird misconfigured
+	
+	e:\prog\#Baza25na30\fb25\bin/ib_util.dll library has not been found
+	e:\prog\#Baza25na30\fb25\ib_util.dll library has not been found
+	ib_util.dll library has not been found
+
+
+KW-WIL-MKO-NOT	Sun Mar 18 15:59:33 2018
+	ib_util init failed, UDFs can't be used - looks like firebird misconfigured
+	
+	e:\prog\#Baza25na30\fb25\bin/ib_util.dll library has not been found
+	e:\prog\#Baza25na30\fb25\ib_util.dll library has not been found
+	ib_util.dll library has not been found
+
+
+KW-WIL-MKO-NOT	Fri Mar 23 20:23:33 2018
+	ib_util init failed, UDFs can't be used - looks like firebird misconfigured
+	
+	e:\prog\#Baza25na30\fb25\bin/ib_util.dll library has not been found
+	e:\prog\#Baza25na30\fb25\ib_util.dll library has not been found
+	ib_util.dll library has not been found
+
+
+KW-WIL-MKO-NOT	Sat Apr 07 09:06:44 2018
+	INET/inet_error: connect errno = 10060
+
+
+KW-WIL-MKO-NOT	Sat Apr 07 09:07:07 2018
+	INET/inet_error: connect errno = 10060
+
+
+KW-WIL-MKO-NOT	Sat Apr 07 09:07:28 2018
+	INET/inet_error: connect errno = 10060
+
+
+KW-WIL-MKO-NOT	Sat Apr 07 09:07:51 2018
+	INET/inet_error: connect errno = 10060
+
+
+KW-WIL-MKO-NOT	Sat May 26 00:43:18 2018
+	INET/inet_error: connect errno = 10060
+
+
+KW-WIL-MKO-NOT	Sat May 26 00:43:41 2018
+	INET/inet_error: connect errno = 10060
+
